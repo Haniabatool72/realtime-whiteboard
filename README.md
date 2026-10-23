@@ -1,6 +1,5 @@
 # Whiteboard
 
-[![CI](https://github.com/YOUR_USERNAME/realtime-whiteboard/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/realtime-whiteboard/actions/workflows/ci.yml)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6.svg)
 
